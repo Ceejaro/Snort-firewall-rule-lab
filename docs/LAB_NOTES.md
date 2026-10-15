@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- **Name:** 
-- **Course / Program:** 
-- **Institution / Training Center:** 
-- **Date:** 
+- **Name:Ukpai Chijioke Kelvin
+- **Course / Program: Tech4Youth Cybersecurity Training
+- **Institution / Training Center: TechQuest Academy
+- **Date: 15/10/2026
 - **Lab:** Snort and Firewall Rules
 - **Environment:** CyberOps Workstation / Mininet
 
